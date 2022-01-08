@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lobowww
+- 👀 I’m interested in  Banco de dados
+- 🌱 I’m currently learning Python
