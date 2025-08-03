@@ -1,6 +1,6 @@
 ## Olá, meu nome é Felipe Lôbo!
 ### Sejam muito bem vindos ao meu GitHub profissional!👋🏾
-- 👨🏾‍🎓 Atualmente curso Engenharia de software na UCSAL(Universidade Católica de Salvador) (2/8)
+- 👨🏾‍🎓 Atualmente curso Engenharia de software na UCSAL(Universidade Católica de Salvador) (3/8)
 - 🧠 Interessado por desenvolvimento back-end!
 - 🧠 Interessado por desenvolvimento mobile!
 - 🧠 Interessado por banco de dados!
